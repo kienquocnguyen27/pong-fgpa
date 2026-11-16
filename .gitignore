@@ -1,0 +1,26 @@
+# GHDL library and object files
+*.cf
+*.o
+
+# Waveforms
+*.ghw
+*.vcd
+*.fst
+
+# Simulation output folder
+sim/
+
+# Vivado project folders, logs, and bitstreams
+*.jou
+*.log
+.Xil/
+*.bit
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+

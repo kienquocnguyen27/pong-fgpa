@@ -24,3 +24,6 @@ sim/
 *.gen/
 *.srcs/
 
+
+mutants/
+sim_m/
